@@ -23,5 +23,5 @@ public class Logistics implements Serializable {
     boolean reserve;
     float prixUnit;
     int quantite;
-
+    //////////
 }
